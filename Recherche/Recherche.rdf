@@ -1,0 +1,199 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Article rdf:about="https://doi.org/10.1007/BF03340752">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2198-2775"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pröhl</foaf:surname>
+                        <foaf:givenname>Thorsten</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Repschläger</foaf:surname>
+                        <foaf:givenname>Jonas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Erek</foaf:surname>
+                        <foaf:givenname>Koray</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zarnekow</foaf:surname>
+                        <foaf:givenname>Rüdiger</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_100"/>
+        <link:link rdf:resource="#item_99"/>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/BF03340752</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>6-14</bib:pages>
+        <dc:date>2012-12-01</dc:date>
+        <dcterms:dateSubmitted>2019-03-19 19:53:15</dcterms:dateSubmitted>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <z:language>de</z:language>
+        <dcterms:abstract>Cloud Computing stellt einen fundamentalen Trend in der IT-Branche dar, der bei IT-Entscheidern sowohl positive als auch kritische Reaktionen hervorruft. Insbesondere werden der praktische Nutzen, die Datensicherheit sowie das für Unternehmen spezifische Anwendungsszenario nach wie vor kontrovers diskutiert. Der Bezug von Cloud-Services kann weitreichende Prozessveränderungen im IT-Servicemanagement (ITSM) zur Folge haben. Dabei ist aus Anwendersicht vor allem die zunehmende Bedeutung der Phasen Service Strategy und Service Design hervorzuheben. Demgegenüber ist zu erwarten, dass im Rahmen des Cloud Computing die Phasen Service Transition und Service Operation für die Leistungsabnehmer an Relevanz verlieren. Derweilen bleibt das Continual Service Improvement unverändert wichtig.</dcterms:abstract>
+        <dc:title>IT-Servicemanagement im Cloud Computing</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2198-2775">
+        <prism:volume>49</prism:volume>
+        <prism:number>6</prism:number>
+        <dc:title>HMD Praxis der Wirtschaftsinformatik</dc:title>
+        <dc:identifier>ISSN 2198-2775</dc:identifier>
+        <dcterms:alternative>HMD</dcterms:alternative>
+        <dc:identifier>DOI 10.1007/BF03340752</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_100">
+       <rdf:value>&lt;p&gt;Ranking D&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_99">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/99/Pröhl et al. - 2012 - IT-Servicemanagement im Cloud Computing.pdf"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2FBF03340752.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-03-19 19:53:18</dcterms:dateSubmitted>
+        <dc:title>Springer Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.emeraldinsight.com/doi/abs/10.1108/14637150310496703">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1463-7154"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bull</foaf:surname>
+                        <foaf:givenname>Christopher</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_102"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Customer information</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Customer relations</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Integration</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>United Kingdom</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.emeraldinsight.com/doi/abs/10.1108/14637150310496703</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>592-602</bib:pages>
+        <dc:date>October 1, 2003</dc:date>
+        <dcterms:dateSubmitted>2019-03-19 20:28:50</dcterms:dateSubmitted>
+        <z:libraryCatalog>emeraldinsight.com (Atypon)</z:libraryCatalog>
+        <dc:title>Strategic issues in customer relationship management (CRM) implementation</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1463-7154">
+        <prism:volume>9</prism:volume>
+        <prism:number>5</prism:number>
+        <dc:title>Business Process Management Journal</dc:title>
+        <dc:identifier>ISSN 1463-7154</dc:identifier>
+        <dcterms:alternative>Business Process Mgmt Journal</dcterms:alternative>
+        <dc:identifier>DOI 10.1108/14637150310496703</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_102">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/102/14637150310496703.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.emeraldinsight.com/doi/abs/10.1108/14637150310496703</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-03-19 20:29:10</dcterms:dateSubmitted>
+        <dc:title>Snapshot</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.emeraldinsight.com/doi/10.1108/14637150210428934">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>8</prism:volume>
+                <prism:number>3</prism:number>
+                <dc:title>Business Process Management Journal</dc:title>
+                <dc:identifier>ISSN 1463-7154</dc:identifier>
+                <dc:identifier>DOI 10.1108/14637150210428934</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kotorov</foaf:surname>
+                        <foaf:givenname>Radoslav P.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_106"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.emeraldinsight.com/doi/10.1108/14637150210428934</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>218-232</bib:pages>
+        <dc:date>08/2002</dc:date>
+        <dcterms:dateSubmitted>2019-03-19 21:52:59</dcterms:dateSubmitted>
+        <z:libraryCatalog>Crossref</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>Ubiquitous organization: organizational design for e‐CRM</dc:title>
+        <z:shortTitle>Ubiquitous organization</z:shortTitle>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_106">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/106/ubiquitous-organization-organizational-design-for-e-crm-P7yUfmGc0v.html"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.deepdyve.com/lp/emerald-publishing/ubiquitous-organization-organizational-design-for-e-crm-P7yUfmGc0v?articleList=%2Fsearch%3Fquery%3D%2522Customer%2BRelationship%2BManagement%2Bsolutions%2522</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2019-03-19 21:53:36</dcterms:dateSubmitted>
+        <dc:title>Ubiquitous organization: organizational design for e‐CRM, Business Process Management Journal | 10.1108/14637150210428934 | DeepDyve</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_2">
+       <dc:title>itpem</dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_11">
+        <dc:title>itprojekt</dc:title>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1007/BF03340752"/>
+        <dcterms:hasPart rdf:resource="https://www.emeraldinsight.com/doi/abs/10.1108/14637150310496703"/>
+        <dcterms:hasPart rdf:resource="http://www.emeraldinsight.com/doi/10.1108/14637150210428934"/>
+    </z:Collection>
+</rdf:RDF>
