@@ -1,0 +1,11 @@
+https://www.odoo.com/documentation/user/12.0/
+
+https://www.google.com/search?q=odoo+12.0+community+version+on+premise&rlz=1C1CHBD_deAT804AT804&oq=odoo+12.0+community+version+on+premise&aqs=chrome..69i57j69i60.11988j0j7&sourceid=chrome&ie=UTF-8
+
+https://www.odoo.com/forum/help-1/question/is-odoo-on-premise-version-available-140270
+
+https://www.odoo.com/documentation/11.0/setup/install.html
+
+https://github.com/yenthe666/installscript
+
+https://www.odoo.com/documentation/user/12.0/db_management/db_premise.html
