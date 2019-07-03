@@ -1,0 +1,14 @@
+Source Code:
+https://github.com/underleini/JKUSponsionsServiceREST
+https://github.com/nerko93/Sponsionsverwaltung_App
+
+REST API:
+https://jkusponsionsservicerest.azurewebsites.net
+https://jkusponsionsservicerest.azurewebsites.net/swagger/ui/index
+
+Web App:
+https://jkusponsionsserviceapp.azurewebsites.net/
+
+User:
+sponsion@rleinwebergmail.onmicrosoft.com
+Sp0nsion0815
